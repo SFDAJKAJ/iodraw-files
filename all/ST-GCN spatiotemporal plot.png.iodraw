@@ -369,6 +369,9 @@
         <mxCell id="OWsTP5IO-kcchl_V6P43-42" value="" style="fillColor=#2C739C;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.infrastructure_redundancy;" vertex="1" parent="1">
           <mxGeometry x="790" y="80" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="OWsTP5IO-kcchl_V6P43-47" value="" style="shape=mxgraph.cisco.directors.content_engine_(cache_director);sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-2" width="90" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
