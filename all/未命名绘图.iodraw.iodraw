@@ -129,14 +129,17 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-8" value="Penalty" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ST-GCN&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;" vertex="1" parent="1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ST-GCN&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-11" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ARIMA&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-12" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;LSTM-Attention&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;" vertex="1" parent="1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-12" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;LSTM-Attention&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-20" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ARIMA&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
