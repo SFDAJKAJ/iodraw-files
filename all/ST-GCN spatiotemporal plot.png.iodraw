@@ -372,6 +372,9 @@
         <mxCell id="OWsTP5IO-kcchl_V6P43-45" value="" style="shape=mxgraph.cisco.people.sitting_woman;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="816" y="-10" width="44" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="OWsTP5IO-kcchl_V6P43-46" value="" style="shape=mxgraph.cisco.people.sitting_woman;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="798" y="-10" width="44" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
