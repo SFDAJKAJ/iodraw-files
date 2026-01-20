@@ -361,7 +361,7 @@
           <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OWsTP5IO-kcchl_V6P43-39" value="" style="shape=mxgraph.cisco.people.running_man;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="727" y="150" width="83" height="93" as="geometry" />
+          <mxGeometry x="240" y="-10" width="63" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
