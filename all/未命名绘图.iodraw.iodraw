@@ -124,7 +124,17 @@
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-3" target="Q53Q1vO8dPdc39MJe_hl-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="450" />
+              <mxPoint x="495" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q53Q1vO8dPdc39MJe_hl-27">
+          <mxGeometry x="-0.0459" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="Attenua-tion&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="50" height="60" as="geometry" />
