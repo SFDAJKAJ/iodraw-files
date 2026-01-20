@@ -195,7 +195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7FU1vaTKzbmPCrucypuc" name="第 2 页">
-    <mxGraphModel dx="924" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1478" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,13 +367,7 @@
           <mxGeometry x="280" y="-10" width="63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OWsTP5IO-kcchl_V6P43-42" value="" style="fillColor=#2C739C;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.infrastructure_redundancy;" vertex="1" parent="1">
-          <mxGeometry x="790" y="80" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="OWsTP5IO-kcchl_V6P43-46" value="" style="shape=mxgraph.cisco.people.sitting_woman;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="798" y="-10" width="44" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="OWsTP5IO-kcchl_V6P43-45" value="" style="shape=mxgraph.cisco.people.sitting_woman;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="836" y="-10" width="44" height="70" as="geometry" />
+          <mxGeometry x="810" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
