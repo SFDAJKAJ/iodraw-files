@@ -123,27 +123,11 @@
         <mxCell id="vHqxYxnqTIaNBdhP39Fw-19" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Adjacency Matrix&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;strokeColor=#5790A8;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-3" target="Q53Q1vO8dPdc39MJe_hl-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="425" y="450" />
-              <mxPoint x="495" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="Attenua-tion&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-8" value="Penalty" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="450" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ST-GCN&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
@@ -171,6 +155,9 @@
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-25" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Our Work&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.666;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-3" target="Q53Q1vO8dPdc39MJe_hl-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
