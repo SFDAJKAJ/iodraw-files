@@ -333,6 +333,9 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-40" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;LSTM-Attention&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#54ECF3;strokeColor=#30888C;rounded=1;arcSize=20;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OWsTP5IO-kcchl_V6P43-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.837;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-20" target="Q53Q1vO8dPdc39MJe_hl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
