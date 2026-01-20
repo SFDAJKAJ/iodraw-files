@@ -366,9 +366,6 @@
         <mxCell id="OWsTP5IO-kcchl_V6P43-40" value="" style="shape=mxgraph.cisco.people.man_woman;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="260" width="106" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="OWsTP5IO-kcchl_V6P43-41" value="" style="shape=mxgraph.cisco.people.man_woman;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="260" width="106" height="155" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
