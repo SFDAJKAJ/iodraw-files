@@ -174,12 +174,14 @@
         <mxCell id="Zi4rcHN7w5AHIRxE0V6I-48" value="" style="fillColor=#2C739C;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.infrastructure_redundancy;" vertex="1" parent="1">
           <mxGeometry x="790" y="80" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Zi4rcHN7w5AHIRxE0V6I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.537;entryY=1.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zi4rcHN7w5AHIRxE0V6I-4" target="Zi4rcHN7w5AHIRxE0V6I-35">
+        <mxCell id="Zi4rcHN7w5AHIRxE0V6I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.537;entryY=1.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304" y="450" as="sourcePoint" />
+            <mxPoint x="470.6600000000001" y="127.73999999999978" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="470" />
-              <mxPoint x="370" y="470" />
-              <mxPoint x="370" y="128" />
+              <mxPoint x="304" y="470" />
+              <mxPoint x="374" y="470" />
+              <mxPoint x="374" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
