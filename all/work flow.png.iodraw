@@ -175,7 +175,12 @@
           <mxGeometry x="790" y="80" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Zi4rcHN7w5AHIRxE0V6I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.537;entryY=1.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zi4rcHN7w5AHIRxE0V6I-4" target="Zi4rcHN7w5AHIRxE0V6I-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="470" />
+              <mxPoint x="467" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
