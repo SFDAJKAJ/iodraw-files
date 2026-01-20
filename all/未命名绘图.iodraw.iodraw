@@ -144,8 +144,8 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-21" value="Task1: Data Cleaning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="88" width="50" height="30" as="geometry" />
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-22" value="Task2: Correlation Analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="88" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
