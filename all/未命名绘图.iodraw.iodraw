@@ -112,7 +112,7 @@
         <mxCell id="40vduTxKv2EPGC2M54kY-35" value="Office" style="ellipse;whiteSpace=wrap;html=1;fillColor=#B0C3E9;fontSize=14;fontFamily=Comic Sans MS;strokeColor=#7F8DA8;" vertex="1" parent="40vduTxKv2EPGC2M54kY-36">
           <mxGeometry x="160" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="40vduTxKv2EPGC2M54kY-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="40vduTxKv2EPGC2M54kY-36">
+        <mxCell id="40vduTxKv2EPGC2M54kY-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="40vduTxKv2EPGC2M54kY-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="170" as="sourcePoint" />
             <mxPoint x="240" y="120" as="targetPoint" />
