@@ -164,6 +164,9 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-3" target="Q53Q1vO8dPdc39MJe_hl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-34" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ST-GCN&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
