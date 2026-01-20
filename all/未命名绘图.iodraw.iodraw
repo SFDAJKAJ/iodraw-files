@@ -126,6 +126,11 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="Attenua-tion&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-8" value="Penalty" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="50" height="60" as="geometry" />
         </mxCell>
