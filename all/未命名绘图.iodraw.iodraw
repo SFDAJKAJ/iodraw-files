@@ -69,7 +69,7 @@
         <mxCell id="vHqxYxnqTIaNBdhP39Fw-6" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Provided&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Data&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C3E9;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHqxYxnqTIaNBdhP39Fw-7" value="Data cleaning, imupting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C3E9;arcSize=20;" vertex="1" parent="1">
+        <mxCell id="vHqxYxnqTIaNBdhP39Fw-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Outlier removing&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C3E9;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
