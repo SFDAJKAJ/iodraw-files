@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-9" value="Mechanism" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q53Q1vO8dPdc39MJe_hl-5">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-9" value="Mechanism" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="Q53Q1vO8dPdc39MJe_hl-5">
           <mxGeometry x="-0.7067" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -123,7 +123,7 @@
         <mxCell id="vHqxYxnqTIaNBdhP39Fw-19" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Adjacency Matrix&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;strokeColor=#5790A8;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="Attenuation&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="Attenua-tion&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-8" value="Penalty" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
