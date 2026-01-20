@@ -129,6 +129,9 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-8" value="Penalty" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-10" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Provided&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Data&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0C3E9;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
