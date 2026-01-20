@@ -279,7 +279,7 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-10" target="Q53Q1vO8dPdc39MJe_hl-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-10" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ST-GCN&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-10" value="&lt;font color=&quot;#123133&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ST-GCN&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-11" value="&lt;font color=&quot;#123133&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ARIMA&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
@@ -288,7 +288,7 @@
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-12" target="Q53Q1vO8dPdc39MJe_hl-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-12" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;LSTM&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-12" value="&lt;font color=&quot;#123133&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;LSTM&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#54ECF3;arcSize=20;strokeColor=#30888C;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-20" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Evaluating the Modles&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#74FAC9;arcSize=20;strokeColor=#439175;" vertex="1" parent="1">
