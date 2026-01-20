@@ -40,7 +40,7 @@
         <mxCell id="Zi4rcHN7w5AHIRxE0V6I-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zi4rcHN7w5AHIRxE0V6I-13" target="Zi4rcHN7w5AHIRxE0V6I-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zi4rcHN7w5AHIRxE0V6I-13" value="&lt;font color=&quot;#234454&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;no-delay:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#234454&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Person /Spearman&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;strokeColor=#5790A8;" vertex="1" parent="1">
+        <mxCell id="Zi4rcHN7w5AHIRxE0V6I-13" value="&lt;font color=&quot;#234454&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;no-delay:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#234454&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Person /Spearman&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;strokeColor=#5790A8;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zi4rcHN7w5AHIRxE0V6I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zi4rcHN7w5AHIRxE0V6I-15" target="Zi4rcHN7w5AHIRxE0V6I-20">
@@ -181,7 +181,8 @@
             <Array as="points">
               <mxPoint x="304" y="470" />
               <mxPoint x="374" y="470" />
-              <mxPoint x="374" y="128" />
+              <mxPoint x="374" y="110" />
+              <mxPoint x="471" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
