@@ -199,7 +199,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OWsTP5IO-kcchl_V6P43-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFFED;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="OWsTP5IO-kcchl_V6P43-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFFED;arcSize=7;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-20" width="720" height="600" as="geometry" />
         </mxCell>
         <mxCell id="OWsTP5IO-kcchl_V6P43-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#91E7ED;dashed=1;dashPattern=1 4;opacity=50;arcSize=12;" vertex="1" parent="1">
