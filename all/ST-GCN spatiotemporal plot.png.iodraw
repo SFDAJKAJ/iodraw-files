@@ -361,7 +361,7 @@
           <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OWsTP5IO-kcchl_V6P43-36" value="" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.infrastructure_redundancy;" vertex="1" parent="1">
-          <mxGeometry x="780" y="120" width="43" height="43" as="geometry" />
+          <mxGeometry x="780" y="120" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
