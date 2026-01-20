@@ -265,7 +265,7 @@
         <mxCell id="vHqxYxnqTIaNBdhP39Fw-19" value="&lt;font color=&quot;#234454&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Adjacency Matrix&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;strokeColor=#5790A8;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="&lt;font color=&quot;#234454&quot;&gt;Attenua-tion&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="&lt;font color=&quot;#234454&quot;&gt;Attenua-tion&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;strokeColor=#5790A8;fontFamily=Comic Sans MS;shape=step;perimeter=stepPerimeter;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q53Q1vO8dPdc39MJe_hl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="Q53Q1vO8dPdc39MJe_hl-8">
