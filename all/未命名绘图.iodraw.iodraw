@@ -191,8 +191,8 @@
         <mxCell id="ODmX_Mc1_TWNw-1dQXL3-17" value="&lt;div&gt;Arrows within each time slice: spatial edges (from adjacency A)&amp;nbsp;&lt;/div&gt;&lt;div&gt;Arrows across time: temporal edges (same node over time)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ODmX_Mc1_TWNw-1dQXL3-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="498" width="50" height="30" as="geometry" />
+        <mxCell id="ODmX_Mc1_TWNw-1dQXL3-18" value="ST-GCN&amp;nbsp;spatiotemporal plot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="498" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
