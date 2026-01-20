@@ -99,14 +99,14 @@
         <mxCell id="vHqxYxnqTIaNBdhP39Fw-16" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Lag-CCF&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHqxYxnqTIaNBdhP39Fw-19" target="Q53Q1vO8dPdc39MJe_hl-1">
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHqxYxnqTIaNBdhP39Fw-19" target="Q53Q1vO8dPdc39MJe_hl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHqxYxnqTIaNBdhP39Fw-19" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Adjacency Matrix&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83D8FD;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q53Q1vO8dPdc39MJe_hl-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#83D8FD;rounded=1;arcSize=20;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="Q53Q1vO8dPdc39MJe_hl-3" value="" style="whiteSpace=wrap;html=1;fillColor=#83D8FD;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
